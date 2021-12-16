@@ -1,0 +1,5 @@
+Scenario Outline:Choosing a jersey in woman category
+  Given the app first page is open
+  When the user click drop menu "Apparel" and choose "woman"
+  Then the user find his jersey
+  
